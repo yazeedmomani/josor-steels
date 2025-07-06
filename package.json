@@ -8,7 +8,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "classnames": "^2.3.2",
-    "node-sass-chokidar": "^2.0.0",
     "npm-add-script": "^1.1.0",
     "npm-run-all": "^4.1.5",
     "pigeon-maps": "^0.21.3",
@@ -20,7 +19,8 @@
     "react-paginate": "^8.1.4",
     "react-router-dom": "^6.6.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "sass": "^1.75.0"
   },
   "scripts": {
     "start": "npm-run-all -p watch-css start-js",
@@ -29,8 +29,8 @@
     "build": "npm run build-css && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build-css": "node-sass-chokidar src/ -o src/",
-    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "build-css": "sass src/:src/",
+    "watch-css": "npm run build-css && sass --watch src/:src/",
     "start-js": "react-scripts start"
   },
   "eslintConfig": {
@@ -52,7 +52,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "node-sass": "^7.0.3"
+    "gh-pages": "^4.0.0"
   }
 }

@@ -1,16 +1,16 @@
 export const PATHS = {
-  HOME: "/wrk_web_josor-steels/",
-  ABOUT_US: "/wrk_web_josor-steels/about-us",
-  PROJECT_CATEGORIES: "/wrk_web_josor-steels/projects",
+  HOME: "/josor-steels/",
+  ABOUT_US: "/josor-steels/about-us",
+  PROJECT_CATEGORIES: "/josor-steels/projects",
   PROJECTS: {
-    HANGERS: "/wrk_web_josor-steels/projects/hangers",
-    BRIDGES: "/wrk_web_josor-steels/projects/bridges",
-    TUBES: "/wrk_web_josor-steels/projects/tubes",
-    CANOPIES: "/wrk_web_josor-steels/projects/canopies",
-    OTHER: "/wrk_web_josor-steels/projects/other",
+    HANGERS: "/josor-steels/projects/hangers",
+    BRIDGES: "/josor-steels/projects/bridges",
+    TUBES: "/josor-steels/projects/tubes",
+    CANOPIES: "/josor-steels/projects/canopies",
+    OTHER: "/josor-steels/projects/other",
   },
-  OUR_FACILITY: "/wrk_web_josor-steels/our-facility",
-  CONTACT: "/wrk_web_josor-steels/contact",
+  OUR_FACILITY: "/josor-steels/our-facility",
+  CONTACT: "/josor-steels/contact",
 };
 
 export const TITLES = {
