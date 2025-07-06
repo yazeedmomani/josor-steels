@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wrk_web_josor-steels/static/css/main.29022b37.css",
-    "main.js": "/wrk_web_josor-steels/static/js/main.e1a72522.js",
-    "static/media/bridges.jpeg": "/wrk_web_josor-steels/static/media/bridges.fbf6c7b0fd01df7df5b8.jpeg",
-    "static/media/canopies.jpeg": "/wrk_web_josor-steels/static/media/canopies.2c8420b2c6513bfec842.jpeg",
-    "static/media/aboutUs.jpeg": "/wrk_web_josor-steels/static/media/aboutUs.50d4148c8dba8715a47b.jpeg",
-    "static/media/tubes.jpeg": "/wrk_web_josor-steels/static/media/tubes.50d4148c8dba8715a47b.jpeg",
-    "static/media/hangers.jpeg": "/wrk_web_josor-steels/static/media/hangers.abfe59b832e61fdbd719.jpeg",
-    "static/media/other.jpeg": "/wrk_web_josor-steels/static/media/other.abfe59b832e61fdbd719.jpeg",
-    "static/media/revicons.eot": "/wrk_web_josor-steels/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/wrk_web_josor-steels/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/wrk_web_josor-steels/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/wrk_web_josor-steels/index.html",
-    "main.29022b37.css.map": "/wrk_web_josor-steels/static/css/main.29022b37.css.map",
-    "main.e1a72522.js.map": "/wrk_web_josor-steels/static/js/main.e1a72522.js.map"
+    "main.css": "/josor-steels/static/css/main.796ecf56.css",
+    "main.js": "/josor-steels/static/js/main.c014f48b.js",
+    "static/media/bridges.jpeg": "/josor-steels/static/media/bridges.fbf6c7b0fd01df7df5b8.jpeg",
+    "static/media/canopies.jpeg": "/josor-steels/static/media/canopies.2c8420b2c6513bfec842.jpeg",
+    "static/media/aboutUs.jpeg": "/josor-steels/static/media/aboutUs.50d4148c8dba8715a47b.jpeg",
+    "static/media/tubes.jpeg": "/josor-steels/static/media/tubes.50d4148c8dba8715a47b.jpeg",
+    "static/media/hangers.jpeg": "/josor-steels/static/media/hangers.abfe59b832e61fdbd719.jpeg",
+    "static/media/other.jpeg": "/josor-steels/static/media/other.abfe59b832e61fdbd719.jpeg",
+    "static/media/revicons.eot": "/josor-steels/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/josor-steels/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/josor-steels/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/josor-steels/index.html",
+    "main.796ecf56.css.map": "/josor-steels/static/css/main.796ecf56.css.map",
+    "main.c014f48b.js.map": "/josor-steels/static/js/main.c014f48b.js.map"
   },
   "entrypoints": [
-    "static/css/main.29022b37.css",
-    "static/js/main.e1a72522.js"
+    "static/css/main.796ecf56.css",
+    "static/js/main.c014f48b.js"
   ]
 }
