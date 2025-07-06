@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "0.1.0",
-  "homepage": "https://yazeedmomani.github.io/wrk_web_josor-steels",
+  "homepage": "https://yazeedmomani.github.io/josor-steels",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

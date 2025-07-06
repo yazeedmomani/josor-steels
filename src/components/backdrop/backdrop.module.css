@@ -16,4 +16,7 @@
   /* Changes the mouse cursor to a pointer when it hovers over the backdrop */
   cursor: pointer;
   /* Positions the backdrop above most other elements on the page */
-  z-index: 5000; }
+  z-index: 5000;
+}
+
+/*# sourceMappingURL=backdrop.module.css.map */

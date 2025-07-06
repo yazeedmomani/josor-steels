@@ -4,41 +4,55 @@
   /* Styles for the link when the mouse hovers over it */
   /* Styles for the link when it is active (i.e., being clicked) */
   /* Styles for the primary type */
-  /* Styles for the secondary type */ }
-  .button:link, .button:visited {
-    padding: 1.2rem 2.4rem;
-    border-radius: var(--border-radius);
-    cursor: pointer;
-    display: inline-block;
-    box-shadow: var(--box-shadow);
-    transition: all 100ms ease-in;
-    font-size: var(--font-size-h5);
-    font-weight: var(--font-weight-bold); }
-  .button:hover {
-    box-shadow: var(--box-shadow-hover);
-    transform: translateY(-2px); }
-  .button:active {
-    box-shadow: var(--box-shadow-active);
-    transform: translateY(-1px); }
-  .button___primary {
-    /* Styles for the link when it is a normal or visited link */
-    /* Styles for the link when the mouse hovers over it */
-    /* Styles for the link when it is active (i.e., being clicked) */ }
-    .button___primary:link, .button___primary:visited {
-      background-color: var(--color-primary);
-      color: var(--color-white); }
-    .button___primary:hover {
-      background-color: var(--color-primary-dark); }
-    .button___primary:active {
-      background-color: var(--color-primary-dark); }
-  .button___secondary {
-    /* Styles for the link when it is a normal or visited link */
-    /* Styles for the link when the mouse hovers over it */
-    /* Styles for the link when it is active (i.e., being clicked) */ }
-    .button___secondary:link, .button___secondary:visited {
-      background-color: var(--color-white);
-      color: var(--color-primary); }
-    .button___secondary:hover {
-      background-color: var(--color-grey-light-01); }
-    .button___secondary:active {
-      background-color: var(--color-grey-light-01); }
+  /* Styles for the secondary type */
+}
+.button:link, .button:visited {
+  padding: 1.2rem 2.4rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  display: inline-block;
+  box-shadow: var(--box-shadow);
+  transition: all 100ms ease-in;
+  font-size: var(--font-size-h5);
+  font-weight: var(--font-weight-bold);
+}
+.button:hover {
+  box-shadow: var(--box-shadow-hover);
+  transform: translateY(-2px);
+}
+.button:active {
+  box-shadow: var(--box-shadow-active);
+  transform: translateY(-1px);
+}
+.button___primary {
+  /* Styles for the link when it is a normal or visited link */
+  /* Styles for the link when the mouse hovers over it */
+  /* Styles for the link when it is active (i.e., being clicked) */
+}
+.button___primary:link, .button___primary:visited {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+.button___primary:hover {
+  background-color: var(--color-primary-dark);
+}
+.button___primary:active {
+  background-color: var(--color-primary-dark);
+}
+.button___secondary {
+  /* Styles for the link when it is a normal or visited link */
+  /* Styles for the link when the mouse hovers over it */
+  /* Styles for the link when it is active (i.e., being clicked) */
+}
+.button___secondary:link, .button___secondary:visited {
+  background-color: var(--color-white);
+  color: var(--color-primary);
+}
+.button___secondary:hover {
+  background-color: var(--color-grey-light-01);
+}
+.button___secondary:active {
+  background-color: var(--color-grey-light-01);
+}
+
+/*# sourceMappingURL=button.module.css.map */

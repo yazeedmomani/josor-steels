@@ -1,27 +1,34 @@
 .breadcrumb {
   /* Setting display and alignment properties for the breadcrumb container */
   display: flex;
-  align-items: center; }
-  .breadcrumb svg {
-    /* Adding margin to the Arrow component */
-    margin: 0 1.2rem; }
-  .breadcrumb_ul {
-    /* Setting display and alignment properties for the unordered list */
-    display: flex;
-    justify-content: center;
-    align-items: center; }
-  .breadcrumb_li {
-    /* Setting display and alignment properties for the list items */
-    display: flex;
-    align-items: center; }
-  .breadcrumb_link a:link,
-  .breadcrumb_link a:visited {
-    /* Adding text decoration and font size properties to the link component */
-    text-decoration: underline;
-    border-bottom: none;
-    font-size: var(--font-size-p); }
-  .breadcrumb span:last-of-type {
-    /* Adding font weight property to the last span element */
-    font-weight: var(--font-weight-bold);
-    /* Changing cursor type to default */
-    cursor: default; }
+  align-items: center;
+}
+.breadcrumb svg {
+  /* Adding margin to the Arrow component */
+  margin: 0 1.2rem;
+}
+.breadcrumb_ul {
+  /* Setting display and alignment properties for the unordered list */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.breadcrumb_li {
+  /* Setting display and alignment properties for the list items */
+  display: flex;
+  align-items: center;
+}
+.breadcrumb_link a:link, .breadcrumb_link a:visited {
+  /* Adding text decoration and font size properties to the link component */
+  text-decoration: underline;
+  border-bottom: none;
+  font-size: var(--font-size-p);
+}
+.breadcrumb span:last-of-type {
+  /* Adding font weight property to the last span element */
+  font-weight: var(--font-weight-bold);
+  /* Changing cursor type to default */
+  cursor: default;
+}
+
+/*# sourceMappingURL=breadcrumb.module.css.map */
