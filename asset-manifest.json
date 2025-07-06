@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wrk_web_josor-steels/static/css/main.e15853ed.css",
-    "main.js": "/wrk_web_josor-steels/static/js/main.e614a4d5.js",
+    "main.css": "/wrk_web_josor-steels/static/css/main.29022b37.css",
+    "main.js": "/wrk_web_josor-steels/static/js/main.e1a72522.js",
     "static/media/bridges.jpeg": "/wrk_web_josor-steels/static/media/bridges.fbf6c7b0fd01df7df5b8.jpeg",
     "static/media/canopies.jpeg": "/wrk_web_josor-steels/static/media/canopies.2c8420b2c6513bfec842.jpeg",
     "static/media/aboutUs.jpeg": "/wrk_web_josor-steels/static/media/aboutUs.50d4148c8dba8715a47b.jpeg",
@@ -12,11 +12,11 @@
     "static/media/revicons.ttf": "/wrk_web_josor-steels/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/wrk_web_josor-steels/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/wrk_web_josor-steels/index.html",
-    "main.e15853ed.css.map": "/wrk_web_josor-steels/static/css/main.e15853ed.css.map",
-    "main.e614a4d5.js.map": "/wrk_web_josor-steels/static/js/main.e614a4d5.js.map"
+    "main.29022b37.css.map": "/wrk_web_josor-steels/static/css/main.29022b37.css.map",
+    "main.e1a72522.js.map": "/wrk_web_josor-steels/static/js/main.e1a72522.js.map"
   },
   "entrypoints": [
-    "static/css/main.e15853ed.css",
-    "static/js/main.e614a4d5.js"
+    "static/css/main.29022b37.css",
+    "static/js/main.e1a72522.js"
   ]
 }
